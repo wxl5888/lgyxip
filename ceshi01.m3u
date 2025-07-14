@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://gitee.com/wxl5888/iptv/raw/master/tv/lgepg.xml","http://epg.51zmt.top:8000/cc.xml","http://epg.51zmt.top:8000/difang.xml"
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视", CCTV1综合
+#EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://gitee.com/wxl5888/iptv/raw/master/taibiao/cctv1.png" group-title="央视",CCTV1综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视", CCTV2财经
+#EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/wxl5888/iptv/raw/master/taibiao/cctv1.png" group-title="央视",CCTV2财经
 rtsp://139.215.98.88/PLTV/88888888/224/3221225799/10000100000000060000000014274939_0.smil
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="央视", CCTV3综艺
+#EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/wxl5888/iptv/raw/master/taibiao/cctv1.png" group-title="央视",CCTV3综艺
 rtsp://139.215.98.88/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil
-#EXTINF:-1 tvg-logo="https://gitee.com/wxl5888/iptv/raw/master/taibiao/cctv1.png" group-title="央视", CCTV9
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/wxl5888/iptv/raw/master/taibiao/cctv1.png" group-title="央视",CCTV9
 http://183.185.74.14:9003/hls/10/index.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
 https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
