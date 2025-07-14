@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://gitee.com/wxl5888/iptv/raw/master/tv/lgepg.xml"
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视", CCTV1综合
-http://tv-zb.wxl5888.dpdns.org:5555/mgtv/608807420.m3u8
+http://222.160.123.99:35455/mgtv/608807420.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视", CCTV2财经
-http://tv-zb.wxl5888.dpdns.org:5555/mgtv/631780532.m3u8
+http://222.160.123.99:35455/mgtv/631780532.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="央视", CCTV3综艺
-http://tv-zb.wxl5888.dpdns.org:5555/mgtv/624878271.m3u8
+http://222.160.123.99:35455/mgtv/624878271.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="央视", CCTV4中文国际
 http://tv-zb.wxl5888.dpdns.org:5555/mgtv/631780421.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="央视", CCTV5体育
