@@ -7,16 +7,12 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225799/100001000000000600000000142749
 rtsp://139.215.98.88/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/wxl5888/iptv/raw/master/taibiao/cctv1.png" group-title="央视",CCTV9
 http://183.185.74.14:9003/hls/10/index.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
-https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
-https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
-https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
-https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
-https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3 8M
-https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://11.112114.xyz/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-37
+http://tv-zb.wxl5888.dpdns.org:5555/itv/3000000010000015470.m3u8?cdn=FifastbLive
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://11.112114.xyz/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-38
+http://tv-zb.wxl5888.dpdns.org:5555/itv/3000000010000015560.m3u8?cdn=FifastbLive
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://11.112114.xyz/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-39
+http://tv-zb.wxl5888.dpdns.org:5555/itv/3000000010000017678.m3u8?cdn=FifastbLive
+#EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://11.112114.xyz/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-40
+http://tv-zb.wxl5888.dpdns.org:5555/itv/3000000010000019839.m3u8?cdn=FifastbLive
 
